@@ -1,7 +1,11 @@
+<div align="center">
+
 ![header](header.png)
 
-<h2 align="center">Om Shah</h2>
+<h2>Om Shah</h2>
+
+</div>
 
 ---
 
-Try out my [Poke Recipe](https://poke.com/r/DI3Y8Kme9_8) · Send an email [shahom0306@gmail.com](mailto:shahom0306@gmail.com) · [DM me on twitter](https://x.com/MaiOmmHoon). Always happy to talk!
+Try out my [Poke Recipe](https://poke.com/r/DI3Y8Kme9_8) · Send an email [hi@omshah.tech](mailto:hi@omshah.tech) · [DM me on twitter](https://x.com/MaiOmmHoon). Always happy to talk!
