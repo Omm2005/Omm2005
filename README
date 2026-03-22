@@ -1,31 +1,24 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════╗
-║   building things that (hopefully) work   ║
-╚═══════════════════════════════════════════╝
-```
+# Hi, I'm Om Shah 👋
 
-# Om Shah &nbsp;👋
+**aspiring guitar god · coding something cool · thinks C# is a musical note**
 
-**aspiring guitar god. coding something cool. thinks C# is a musical note.**
-
-[![Portfolio](https://img.shields.io/badge/omshah.tech-000?style=for-the-badge&logo=vercel&logoColor=white)](https://omshah.tech)
+[![Portfolio](https://img.shields.io/badge/omshah.tech-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omshah.tech)
 [![Twitter](https://img.shields.io/badge/@MaiOmmHoon-1d9bf0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MaiOmmHoon)
-[![GitHub](https://img.shields.io/badge/Omm2005-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omm2005)
 
 </div>
 
 ---
 
-### 🚀 what i'm building
+### 🚀 what I'm building
 
 | Project | What it does |
-|--------|-------------|
-| [**Tymely**](https://github.com/Omm2005/Tymely) ⭐ 43 | AI-powered planner & time management — because I can never remember what I was supposed to do |
-| [**chat-bot**](https://github.com/Omm2005/chat-bot) | Conversational AI with Gemini, chain-of-thought, memory tools & artifacts |
+|---------|-------------|
+| [**Tymely**](https://github.com/Omm2005/Tymely) ⭐ 43 | AI-powered planner & time management |
+| [**chat-bot**](https://github.com/Omm2005/chat-bot) | Conversational AI with Gemini, memory tools & artifacts |
 | [**Athyna**](https://github.com/Omm2005/Athyna) | TypeScript-powered. Stars appreciated 🙏 |
-| [**kidify**](https://github.com/Omm2005/kidify) | Explains complex topics like you're 5. Because ELI5 should exist as an app. |
+| [**kidify**](https://github.com/Omm2005/kidify) | Explains complex topics like you're 5 |
 
 ---
 
@@ -33,7 +26,7 @@
 
 ```ts
 const om = {
-  languages:   ["TypeScript", "Python", "C++", "C#*"],  // *musical note
+  languages:   ["TypeScript", "Python", "C++", "C#*"],  // *it's a musical note
   frontend:    ["Next.js", "React", "shadcn/ui", "Tailwind"],
   ai:          ["Gemini", "AI SDK", "Supermemory", "MCP"],
   robotics:    ["VEX", "C++ (the real kind)"],
@@ -43,7 +36,7 @@ const om = {
 
 ---
 
-### 📊 activity
+### 📊 stats
 
 <div align="center">
 
@@ -57,10 +50,8 @@ const om = {
 
 ### 🤝 let's talk
 
-Got a cool idea? Want to build something together? Hit me up:
-
 - 🌐 [omshah.tech](https://omshah.tech)
-- 🐦 [@MaiOmmHoon](https://x.com/MaiOmmHoon) on X
+- 🐦 [@MaiOmmHoon](https://x.com/MaiOmmHoon)
 - 🎸 No, I will not play Wonderwall
 
 ---
